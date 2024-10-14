@@ -1,4 +1,4 @@
-## Hi there 👋 I'm @Feederboy (Matthieu Quentric)
+## Hi there 👋 I'm Matthieu Quentric (@Feederboy)
 A developer from 42 Paris.
 
     🔭 I’m currently working on ft_transcendance
