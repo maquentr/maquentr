@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Matthieu Quentric (@maquentr)
 A developer from 42 Paris.
 
-    🔭 I’m currently working on ft_transcendance
+    🔭 I’m currently working on learning Golang
 
     📫 How to reach me maquentr@gmail.com
 
