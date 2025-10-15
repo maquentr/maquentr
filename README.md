@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Matthieu Quentric (@maquentr)
-A developer from 42 Paris.
+Freelance Developer
 
     🔭 I’m currently working on learning Golang
 
@@ -7,4 +7,4 @@ A developer from 42 Paris.
 
 Languages and Tools:
 
-C C++ Django Javascript Shell
+C C++ Go Django Javascript Shell
